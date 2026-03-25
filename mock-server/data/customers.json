@@ -1,0 +1,233 @@
+[
+  {
+    "customer_id": "CUST001",
+    "first_name": "John",
+    "last_name": "Smith",
+    "email": "john.smith@email.com",
+    "phone": "+1-202-555-0173",
+    "address": "123 Main St, New York, NY 10001",
+    "date_of_birth": "1985-03-15",
+    "account_balance": 15750.50,
+    "created_at": "2023-01-10T08:30:00Z"
+  },
+  {
+    "customer_id": "CUST002",
+    "first_name": "Sarah",
+    "last_name": "Johnson",
+    "email": "sarah.johnson@email.com",
+    "phone": "+1-202-555-0174",
+    "address": "456 Oak Ave, Los Angeles, CA 90001",
+    "date_of_birth": "1990-07-22",
+    "account_balance": 32100.75,
+    "created_at": "2023-01-12T09:15:00Z"
+  },
+  {
+    "customer_id": "CUST003",
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "email": "michael.brown@email.com",
+    "phone": "+1-202-555-0175",
+    "address": "789 Pine Rd, Chicago, IL 60601",
+    "date_of_birth": "1988-11-08",
+    "account_balance": 8450.25,
+    "created_at": "2023-01-15T10:45:00Z"
+  },
+  {
+    "customer_id": "CUST004",
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "email": "emily.davis@email.com",
+    "phone": "+1-202-555-0176",
+    "address": "321 Elm St, Houston, TX 77001",
+    "date_of_birth": "1992-05-30",
+    "account_balance": 45320.00,
+    "created_at": "2023-01-18T11:20:00Z"
+  },
+  {
+    "customer_id": "CUST005",
+    "first_name": "David",
+    "last_name": "Wilson",
+    "email": "david.wilson@email.com",
+    "phone": "+1-202-555-0177",
+    "address": "654 Maple Dr, Phoenix, AZ 85001",
+    "date_of_birth": "1987-09-14",
+    "account_balance": 22680.50,
+    "created_at": "2023-01-20T14:00:00Z"
+  },
+  {
+    "customer_id": "CUST006",
+    "first_name": "Jessica",
+    "last_name": "Martinez",
+    "email": "jessica.martinez@email.com",
+    "phone": "+1-202-555-0178",
+    "address": "987 Cedar Ln, Philadelphia, PA 19101",
+    "date_of_birth": "1989-12-25",
+    "account_balance": 51200.75,
+    "created_at": "2023-01-22T13:30:00Z"
+  },
+  {
+    "customer_id": "CUST007",
+    "first_name": "James",
+    "last_name": "Taylor",
+    "email": "james.taylor@email.com",
+    "phone": "+1-202-555-0179",
+    "address": "147 Birch St, San Antonio, TX 78201",
+    "date_of_birth": "1986-04-19",
+    "account_balance": 18900.00,
+    "created_at": "2023-01-25T15:45:00Z"
+  },
+  {
+    "customer_id": "CUST008",
+    "first_name": "Amanda",
+    "last_name": "Anderson",
+    "email": "amanda.anderson@email.com",
+    "phone": "+1-202-555-0180",
+    "address": "258 Spruce Ave, San Diego, CA 92101",
+    "date_of_birth": "1991-06-10",
+    "account_balance": 39450.25,
+    "created_at": "2023-02-01T09:00:00Z"
+  },
+  {
+    "customer_id": "CUST009",
+    "first_name": "Christopher",
+    "last_name": "Thomas",
+    "email": "chris.thomas@email.com",
+    "phone": "+1-202-555-0181",
+    "address": "369 Willow Way, Dallas, TX 75201",
+    "date_of_birth": "1984-08-07",
+    "account_balance": 26750.50,
+    "created_at": "2023-02-03T10:30:00Z"
+  },
+  {
+    "customer_id": "CUST010",
+    "first_name": "Lisa",
+    "last_name": "Jackson",
+    "email": "lisa.jackson@email.com",
+    "phone": "+1-202-555-0182",
+    "address": "741 Hickory Blvd, San Jose, CA 95101",
+    "date_of_birth": "1993-02-14",
+    "account_balance": 55600.00,
+    "created_at": "2023-02-05T11:15:00Z"
+  },
+  {
+    "customer_id": "CUST011",
+    "first_name": "Robert",
+    "last_name": "White",
+    "email": "robert.white@email.com",
+    "phone": "+1-202-555-0183",
+    "address": "852 Ash St, Austin, TX 73301",
+    "date_of_birth": "1988-10-21",
+    "account_balance": 31200.75,
+    "created_at": "2023-02-08T12:45:00Z"
+  },
+  {
+    "customer_id": "CUST012",
+    "first_name": "Karen",
+    "last_name": "Harris",
+    "email": "karen.harris@email.com",
+    "phone": "+1-202-555-0184",
+    "address": "963 Poplar Ct, Jacksonville, FL 32099",
+    "date_of_birth": "1990-01-30",
+    "account_balance": 44800.50,
+    "created_at": "2023-02-10T08:00:00Z"
+  },
+  {
+    "customer_id": "CUST013",
+    "first_name": "Mark",
+    "last_name": "Martin",
+    "email": "mark.martin@email.com",
+    "phone": "+1-202-555-0185",
+    "address": "147 Oak Ridge, Fort Worth, TX 76102",
+    "date_of_birth": "1986-05-12",
+    "account_balance": 19500.00,
+    "created_at": "2023-02-12T14:20:00Z"
+  },
+  {
+    "customer_id": "CUST014",
+    "first_name": "Jennifer",
+    "last_name": "Lee",
+    "email": "jennifer.lee@email.com",
+    "phone": "+1-202-555-0186",
+    "address": "258 Stone Ln, Columbus, OH 43085",
+    "date_of_birth": "1991-09-18",
+    "account_balance": 48900.25,
+    "created_at": "2023-02-15T09:30:00Z"
+  },
+  {
+    "customer_id": "CUST015",
+    "first_name": "Paul",
+    "last_name": "Clark",
+    "email": "paul.clark@email.com",
+    "phone": "+1-202-555-0187",
+    "address": "369 River Rd, Charlotte, NC 28202",
+    "date_of_birth": "1987-03-08",
+    "account_balance": 25300.50,
+    "created_at": "2023-02-18T10:45:00Z"
+  },
+  {
+    "customer_id": "CUST016",
+    "first_name": "Michelle",
+    "last_name": "Rodriguez",
+    "email": "michelle.rodriguez@email.com",
+    "phone": "+1-202-555-0188",
+    "address": "741 Hill Ct, San Francisco, CA 94102",
+    "date_of_birth": "1989-07-22",
+    "account_balance": 52100.00,
+    "created_at": "2023-02-20T11:00:00Z"
+  },
+  {
+    "customer_id": "CUST017",
+    "first_name": "Steven",
+    "last_name": "Lewis",
+    "email": "steven.lewis@email.com",
+    "phone": "+1-202-555-0189",
+    "address": "852 Park Ave, Indianapolis, IN 46204",
+    "date_of_birth": "1985-11-30",
+    "account_balance": 33400.75,
+    "created_at": "2023-02-22T13:15:00Z"
+  },
+  {
+    "customer_id": "CUST018",
+    "first_name": "Donna",
+    "last_name": "Walker",
+    "email": "donna.walker@email.com",
+    "phone": "+1-202-555-0190",
+    "address": "963 Valley Dr, Seattle, WA 98101",
+    "date_of_birth": "1992-04-05",
+    "account_balance": 41600.50,
+    "created_at": "2023-02-25T14:30:00Z"
+  },
+  {
+    "customer_id": "CUST019",
+    "first_name": "Richard",
+    "last_name": "Hall",
+    "email": "richard.hall@email.com",
+    "phone": "+1-202-555-0191",
+    "address": "147 Summit St, Denver, CO 80202",
+    "date_of_birth": "1986-08-17",
+    "account_balance": 27850.25,
+    "created_at": "2023-02-28T15:45:00Z"
+  },
+  {
+    "customer_id": "CUST020",
+    "first_name": "Patricia",
+    "last_name": "Allen",
+    "email": "patricia.allen@email.com",
+    "phone": "+1-202-555-0192",
+    "address": "258 Desert Ave, Boston, MA 02101",
+    "date_of_birth": "1988-12-09",
+    "account_balance": 49200.00,
+    "created_at": "2023-03-02T16:00:00Z"
+  },
+  {
+    "customer_id": "CUST021",
+    "first_name": "Thomas",
+    "last_name": "Young",
+    "email": "thomas.young@email.com",
+    "phone": "+1-202-555-0193",
+    "address": "369 Ocean Blvd, El Paso, TX 79901",
+    "date_of_birth": "1990-02-28",
+    "account_balance": 35700.50,
+    "created_at": "2023-03-05T08:20:00Z"
+  }
+]
